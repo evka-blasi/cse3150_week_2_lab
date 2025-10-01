@@ -1,2 +1,3 @@
+# Ignore compiled files
 parser_app
 *.o
