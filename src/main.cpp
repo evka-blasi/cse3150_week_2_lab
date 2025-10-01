@@ -8,11 +8,11 @@ using std::endl;
 using std::string;
 
 int main() {
-   cout << "Enter full name: ";
+   cout << "Enter full name: " << endl;
    string fullName;
    std::getline(cin, fullName);
 
-   cout << "Enter email address: ";
+   cout << "Enter email address: " << endl;
    string email;
    std::getline(cin, email);
 
